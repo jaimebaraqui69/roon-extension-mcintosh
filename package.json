@@ -6,7 +6,7 @@
   "author": "Stefan Kruzlik",
   "license": "Apache-2.0",
   "dependencies": {
-    "node-mcintosh": "github:stefan747/node-mcintosh",
+    "node-mcintosh": "github:jaimebar69/node-mcintosh",
     "node-roon-api": "github:roonlabs/node-roon-api",
     "node-roon-api-settings": "github:roonlabs/node-roon-api-settings",
     "node-roon-api-source-control": "github:roonlabs/node-roon-api-source-control",
